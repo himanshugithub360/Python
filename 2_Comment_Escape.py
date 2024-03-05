@@ -29,7 +29,7 @@ print("Hey",6,7)
 print("hey",3,4,sep="@")
 
 
-print("hey",3,4,sep="@")
+print("hey",3,4,sep="$")
 print("Himanshu")
 
 # for joning the two string we use also end="anything"
